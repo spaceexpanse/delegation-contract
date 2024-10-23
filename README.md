@@ -1,4 +1,4 @@
-# Xaya Accounts Delegation
+# Xaya Accounts Delegation 
 
 The Xaya platform on EVM chains (e.g. Polygon) is based on an
 [ERC-721](https://erc721.org/) contract implementing
